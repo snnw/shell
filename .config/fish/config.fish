@@ -1,0 +1,1 @@
+/home/snnw/.dotfiles/shell/config.fish

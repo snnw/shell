@@ -1,0 +1,11 @@
+*
+!/.bash_profile
+!/.bashrc
+!/.config
+!/.config/fish
+!/.config/fish/config.fish
+!/.config/fish/functions
+!/.config/fish/functions/bind_bang.fish
+!/.config/fish/functions/bind_dollar.fish
+!/.config/fish/functions/fish_user_key_bindings.fish
+!/.profile
